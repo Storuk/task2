@@ -1,0 +1,24 @@
+From f1cae4a381c3ed35f9eb97056ee04dbcf2bdd9bb Mon Sep 17 00:00:00 2001
+From: Storuk <vladstoroschuk@gmail.com>
+Date: Thu, 22 Dec 2022 19:10:14 +0200
+Subject: [PATCH] updated 2 lines firstFile
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index e53eaa1..a77b13e 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-1
+-2
++1111
++2222
+ 3
+ 4
+ 5
+-- 
+2.33.0.windows.2
+
